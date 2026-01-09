@@ -1,16 +1,20 @@
-## Hi there 👋
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Técnico em Informática  
 
-<!--
-**RyMont/RyMont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tecnologias
+- Java
+- Python
+- Assembly MIPS
+- Git e GitHub
 
-Here are some ideas to get you started:
+### 📂 Repositórios
+Este perfil contém projetos acadêmicos e listas de exercícios desenvolvidos
+durante meus estudos, com foco em lógica de programação, Programação Orientada
+a Objetos e fundamentos de baixo nível.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Os projetos incluem sistemas em Java, exercícios em Assembly MIPS
+e resoluções em Python.
+
+### 🎯 Objetivo
+Consolidar conhecimentos em desenvolvimento de software e construir base
+prática para atuação profissional na área de tecnologia.
